@@ -1,0 +1,3 @@
+<view>
+  <text onTap='print'>一级导航（1）</text>
+</view>
